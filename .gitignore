@@ -1,0 +1,25 @@
+.DS_Store
+*.class
+*.log
+
+# sbt specific
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.lib/
+
+# Scala-IDE specific
+.scala_dependencies
+
+# intellij spcific
+.idea/
+.idea_modules/
+*.iml
+
+# node specific
+node_modules
+
+
